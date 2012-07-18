@@ -1,0 +1,4 @@
+cmake_minimum_required (VERSION 2.6)
+project (Pi)
+set (Pi_VERSION_MAJOR 0)
+set (Pi_VERSION_MINOR 1)
